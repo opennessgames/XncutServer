@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2026-06-26 14:35:34
  * @LastEditors: xixi_
- * @LastEditTime: 2026-06-27 14:45:52
+ * @LastEditTime: 2026-06-27 17:52:13
  * @FilePath: /Xncut-Server/README.md
  * Copyright (c) 2017-2026 by xixi_ , All Rights Reserved.
 -->
@@ -24,7 +24,7 @@
 1. 缜密/细节
     > new/close时很多情况下要try-catch。
 
-2. 第二：苛刻/毅力
+2. 苛刻/毅力
     > 错误/警告多，try-catch可能会满天飞。
 
 3. 生命线/信誉

@@ -1,16 +1,16 @@
-# 编译后的class文件
+# Compiled class file
 *.class
 
-# 日志文件
+# Log file
 *.log
 
-# BlueJ文件
+# BlueJ files
 *.ctxt
 
-# 移动工具（J2ME）
-mtj.tmp/
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# 包文件
+# Package Files #
 *.jar
 *.war
 *.nar
@@ -19,28 +19,6 @@ mtj.tmp/
 *.tar.gz
 *.rar
 
-# 虚拟机崩溃日志
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
-# Eclipse项目文件
-classpath
-project
-settings/
-
-# IntelliJ IDEA项目文件
-*.iml
-*.ipr
-*.iws
-idea/
-
-# Maven目标目录
-target/
-
-# Gradle构建目录
-build/
-gradle/
-
-# 输出目录
-**/out/
-Out/
